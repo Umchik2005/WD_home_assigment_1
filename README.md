@@ -2,9 +2,9 @@
 Welcome to my portfolio website! This project showcases my skills, projects, and experiences in a visually appealing and interactive manner.
 
 ## Technologies Used
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
 ## Features:
 - Responsive design: Ensures optimal viewing experience across a wide range of devices.
 - Interactive elements: Engaging animations and transitions to enhance user experience.
